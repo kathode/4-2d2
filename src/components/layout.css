@@ -177,20 +177,22 @@ optgroup {
   font-weight: 700;
 }
 .button1 {
-  backgrond-color: #4CAF50;
+  background-color: #4CAF50;
 }
 input {
   overflow: visible;
 }
 .button2 {
-  backgrond-color: #008CBA;
+  background-color: #008CBA;
 }
 select {
   text-transform: none;
 }
 [type="reset"],
 [type="submit"],
-button,
+.button3{
+  background-color: #FF0000;
+}
 html [type="button"] {
   -webkit-appearance: button;
 }
