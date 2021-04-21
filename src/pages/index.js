@@ -11,6 +11,7 @@ const IndexPage = () => (
     <h1>Traffic Lights</h1>
     <button className ="button1">Green</button>
     <button className ="button2">Blue</button>
+    <button className ="button3">Red</button>
   </Layout>
 )
 
