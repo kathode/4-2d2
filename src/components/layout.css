@@ -176,13 +176,13 @@ textarea {
 optgroup {
   font-weight: 700;
 }
-button1 {
+.button1 {
   backgrond-color: #4CAF50;
 }
 input {
   overflow: visible;
 }
-button2 {
+.button2 {
   backgrond-color: #008CBA;
 }
 select {
