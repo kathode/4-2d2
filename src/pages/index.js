@@ -8,7 +8,8 @@ import Seo from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <Seo title="Remote Traffic Lights Control" />
-    
+    <h1>Traffic Lights</h>
+    <span class="dot"></span>
   </Layout>
 )
 
