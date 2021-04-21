@@ -9,9 +9,12 @@ const IndexPage = () => (
   <Layout>
     <Seo title="Remote Traffic Lights Control" />
     <h1>Traffic Lights</h1>
-    <button className ="button1">Green</button>
-    <button className ="button2">Blue</button>
     <button className ="button3">Red</button>
+    <p></p>
+    <button className ="button1">Green</button>
+    <p></p>
+    <button className ="button2">Blue</button>
+    
   </Layout>
 )
 
